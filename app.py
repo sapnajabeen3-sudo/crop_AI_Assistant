@@ -41,9 +41,9 @@ st.set_page_config(
 )
 
 # Paths to the model files (relative to this app.py file)
-MODEL_PATH = os.path.join("model", "crop_recommendation_model.pkl")
-FEATURES_PATH = os.path.join("model", "feature_names.pkl")
-DATASET_PATH = os.path.join("data", "Crop_recommendation.csv")
+MODEL_PATH = os.path.join( "crop_recommendation_model.pkl")
+FEATURES_PATH = os.path.join( "feature_names.pkl")
+DATASET_PATH = os.path.join( "Crop_recommendation.csv")
 
 
 # ---------------------------------------------------------------------------
